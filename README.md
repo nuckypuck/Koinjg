@@ -27,7 +27,7 @@ I'd like to engage more in my hobbies, including games, skiing, climbing, rugby 
 I'd like to keep active in the gym and stay fit <br/>
 I will stick to all my plans, continue to educate myself, travel the world and do something that genuinely matters. <br/>
 <br/>
-And, I will tick these off as I get them done 
+And, I will tick these off as I get them done.
 
 
 
