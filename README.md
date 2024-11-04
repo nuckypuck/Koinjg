@@ -11,24 +11,5 @@ I plan to document my journey as much as possible and will do so here and throug
 If I'd do anything differently, I'd have picked a science (Chemistry or Physics), Maths and Further Maths, and kept Comp Sci and Finance.
 I didn't genuinely begin enjoying these subjects the way I did and studying them until I got to university, but better late than never. 
 
-As far as plans go; <br/>
-Educationally: <br/>
-I will spend as much time as possible engaged with events related to my degree and those that interest me, EG. New Scientist Live (Where I had the privilege of being an Exhibitor). <br/>
-I will learn HTML, CSS, Javascript, Java, React, Python, MySQL, the C family, and more, to a level of understanding, and then further develop these. <br/>
-I will develop my fluency in Excel, Linux and other software. <br/>
-I will learn Maths at all levels, such as Discrete Math, Calculus, and Statistics. <br/>
-I will complete courses and certificates related to my degree and those of interest to me such as ethical hacking. <br/>
-I will complete the Neetcode 150, Princeton Algorithms 1 & 2 and develop my leet code skills. <br/>
-I will pursue AI as my final year module, alongside cyber security (if possible). <br/>
-I will graduate with a first with honours. <br/>
-I will complete a master's in Computer Science or AI. <br/>
-Personally: <br/>
-I'd like to engage more in my hobbies, including games, skiing, climbing, rugby and airsoft. <br/>
-I'd like to keep active in the gym and stay fit <br/>
-I will stick to all my plans, continue to educate myself, travel the world and do something that genuinely matters. <br/>
-<br/>
-And, I will tick these off as I get them done.
-
-
 
 
